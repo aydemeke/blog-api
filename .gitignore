@@ -1,0 +1,26 @@
+# Compiled output
+target/
+
+# IDE
+.idea/
+*.iml
+.vscode/
+*.code-workspace
+
+# Maven wrapper (keep if present, ignore otherwise)
+!.mvn/wrapper/maven-wrapper.jar
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+logs/
+
+# Environment / secrets
+.env
+*.env.local
+
+# Spring Boot devtools restart file
+.spring-boot-devtools.properties
